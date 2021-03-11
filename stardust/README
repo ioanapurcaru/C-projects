@@ -1,0 +1,10 @@
+Purcaru Ioana-Denisa 314CA
+TASK 1
+
+Aloc si citesc variabilele necesare,incrementez suma si contorul cu 0.
+Intr-un 'for' pentru prima si ultima linie a matricii contorul il incrementez cu de 4 ori numarul de elemente de pe linie,iar suma o incrementez cu toate elementele matricii.Pentru restul liniilor contorul in incrementez cu 2(primul si ultimul element),iar suma in acelasi mod.
+La final calculez media aritmentica si o afisez.
+
+TASK 2
+
+Citesc k care reprezinta numarul de operatii. Intr un for citesc de fiecare data un char ce reprezinta tipul operatiei,apoi in functie de operatie se realizeaza modificarile necesare. La inceputul fiecarei operatii citesc un char si doua int uri(un al treilea int pentru modify) ce reprezinta tipul varabilelor, linia,pozitia si inlocuitorul necesare in efctuarea tuturor operatiilor cerute.La final afisez matricea modificata. 
