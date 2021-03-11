@@ -1,0 +1,10 @@
+Purcaru Ioana-Denisa 314CA
+
+Prima oara se creeaza fisierele files.txt si usermap.txt.
+
+files.txt - contine rezultatul comenzii "ls -la --time-style=full-iso | grep ^-"
+usermap.txt - contine rezultatul comenzii "cat / etc / passwd"
+
+Prin aceste doua fisire completez struct-ul header-ului. Apoi iau fisere din folderul curent si le copiez in folderul 'dir'. Utilizatorul introduce inputul pentru a crea fisierul tar din folderul 'dir' prin comanda "create filename.tar dir/".Apoi comanda tar executa si listeaza fisierele incluse in fisierul tar.
+La final utlizator va iesi si programul se va inchide.
+
